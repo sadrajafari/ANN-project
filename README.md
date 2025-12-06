@@ -24,6 +24,8 @@ There are different files and in each file we test our different Deep Learning w
 * RNN_without_feature_engineering.ipynb
 * classical approaches.ipynb
 
+You can open the files and easily run the files (cell by cell).
+
 # Dataset
 To access the dataset, you can easily download that from `https://www.kaggle.com/competitions/ventilator-pressure-prediction`
 
